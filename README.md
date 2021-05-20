@@ -16,7 +16,7 @@
 	* -TestData.xlsx file used to store my tetsdata and it's available under Project Folder.<br />
 	* -Written Custome Methods for Taking Screenshot, Scroll to element and Read and write data in the fields<br /><br />
 	
-**#3.Execution Steps :**
+**#3.Execution Steps :**<br />
 	** -Step 1 : Load Project Solution(GlobalSQA.sln) in Visual Studio with VS 2017 or Higher Versions.**<br />
 	** -Step 2 : Clean and Build The Solution then open the test Explorer then click on Run All.**<br />
 	** -Step 3 : Open the Project Folder and Open the "index.html"  file to see the report.**<br />
