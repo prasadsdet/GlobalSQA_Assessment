@@ -1,0 +1,8 @@
+/.vs/GlobalSQA/v15/Server/sqlite3/*.lock
+/.vs/GlobalSQA/v15/Server/sqlite3/*.ide
+/.vs/GlobalSQA/v15/Server/sqlite3/*.ide-shm
+/.vs/GlobalSQA/v15/Server/sqlite3/*.ide-wal
+/GlobalSQA/ScreenShots/*.Jpeg
+/GlobalSQA/bin
+/GlobalSQA/obj
+/packages
