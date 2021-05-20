@@ -1,6 +1,7 @@
 # GlobalSQA_Assessment
 
 #Project Details :
+
 #1.Project utilised below binding 
 	-->Nunit Framework with Nunit Test runner
 	-->selenium C# bindings
