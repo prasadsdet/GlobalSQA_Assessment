@@ -1,13 +1,13 @@
 # GlobalSQA_Assessment
 
-#Project Details :
+##Project Details :
 
 #1.Project utilised below binding 
-	-->Nunit Framework with Nunit Test runner
-	-->selenium C# bindings
-	-->WebDriverManager
-	-->Extent Reports
-	-->Excel Data Reader and Data Set
+	-Nunit Framework with Nunit Test runner
+	-selenium C# bindings
+	-WebDriverManager
+	-Extent Reports
+	-Excel Data Reader and Data Set
 #2.Framework Details :
 	-->Designed using Nunit Framework and Pageobject Mobet(POM)
 	-->Utilised WebDriver Manager to get Driver Instances(I used Chrome Driver)
